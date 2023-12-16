@@ -228,7 +228,10 @@ article.active {
   text-transform: capitalize;
 }
 
-.h2 { font-size: var(--fs-1); }
+.h2 {
+   font-size: var(--fs-1); 
+   padding-top: 50px;
+  }
 
 .h3 { font-size: var(--fs-2); }
 
