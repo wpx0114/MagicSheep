@@ -337,6 +337,11 @@ main {
   overflow: hidden;
 }
 
+.avatar-box img{
+  border-radius: 10px;
+  overflow: hidden;
+}
+
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
